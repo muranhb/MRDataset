@@ -12,7 +12,8 @@
 
 MRDataset is a high-quality computer vision dataset specifically designed for rockfall disaster detection, addressing the critical lack of annotated image data in this domain.
 
-![Dataset Overview](./figures/overiew.png)
+![Dataset Overview](https://github.com/muranhb/MRDataset/blob/main/figures/overiew.png)
+
 
 ### Key Features
 - **Total Images**: 3,921 real-world rockfall disaster images
